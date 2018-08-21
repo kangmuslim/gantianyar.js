@@ -1,0 +1,2 @@
+# gantianyar.js
+gantianyar
